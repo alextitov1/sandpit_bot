@@ -1,0 +1,9 @@
+{
+  "language": "python",
+  "app": "pipenv run python ./main.py",
+  "terraformProviders": [
+    "azurerm@>= 3.0.0"
+  ],
+  "codeMakerOutput": "imports",
+  "projectId": "6a065271-d60b-4f6e-83a9-ab0b27ba6f0e"
+}
